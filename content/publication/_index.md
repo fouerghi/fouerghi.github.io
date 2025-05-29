@@ -1,12 +1,12 @@
 ---
-title: "Publications"
-menu:
-  main:
-    weight: 20
+title: ""
+cms_exclude: true
+
+# View.
 view: citation
-layout: page
-show_breadcrumb: false
-show_date: false
-header:
-  style: none  # 👈 disables the big banner heading
+
+# Optional header image (relative to `static/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
