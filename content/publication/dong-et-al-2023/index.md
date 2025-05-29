@@ -1,0 +1,48 @@
+---
+title: Causal identification of single-cell experimental perturbation effects with
+  CINEMA-OT
+authors:
+- Mingze Dong
+- Bao Wang
+- Jessica Wei
+- Antonio H. de O. Fonseca
+- Curtis J. Perry
+- Alexander Frey
+- Feriel Ouerghi
+- Ellen F. Foxman
+- Jeffrey J. Ishizuka
+- Rahul M. Dhodapkar
+- David van Dijk
+date: '2023-11-01'
+publishDate: '2025-05-29T20:18:42.582346Z'
+publication_types:
+- article-journal
+publication: '*Nature Methods*'
+doi: 10.1038/s41592-023-02040-5
+abstract: 'Recent advancements in single-cell technologies allow characterization
+  of experimental perturbations at single-cell resolution. While methods have been
+  developed to analyze such experiments, the application of a strict causal framework
+  has not yet been explored for the inference of treatment effects at the single-cell
+  level. Here we present a causal-inference-based approach to single-cell perturbation
+  analysis, termed CINEMA-OT (causal independent effect module attribution + optimal
+  transport). CINEMA-OT separates confounding sources of variation from perturbation
+  effects to obtain an optimal transport matching that reflects counterfactual cell
+  pairs. These cell pairs represent causal perturbation responses permitting a number
+  of novel analyses, such as individual treatment-effect analysis, response clustering,
+  attribution analysis, and synergy analysis. We benchmark CINEMA-OT on an array of
+  treatment-effect estimation tasks for several simulated and real datasets and show
+  that it outperforms other single-cell perturbation analysis methods. Finally, we
+  perform CINEMA-OT analysis of two newly generated datasets: (1) rhinovirus and cigarette-smoke-exposed
+  airway organoids, and (2) combinatorial cytokine stimulation of immune cells. In
+  these experiments, CINEMA-OT reveals potential mechanisms by which cigarette-smoke
+  exposure dulls the airway antiviral response, as well as the logic that governs
+  chemokine secretion and peripheral immune cell recruitment.'
+tags:
+- Computational models
+- Gene regulatory networks
+- Sequencing
+- Software
+links:
+- name: URL
+  url: https://www.nature.com/articles/s41592-023-02040-5
+---
