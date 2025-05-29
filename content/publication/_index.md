@@ -1,12 +1,11 @@
 ---
-title: Publications
-cms_exclude: true
-
-# View.
-view: citation
-
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+title: "Publications"
+menu:
+  main:
+    weight: 12
+layout: page
+show_breadcrumb: false
+show_date: false
 ---
+
+{{< publications >}}
