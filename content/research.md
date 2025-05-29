@@ -17,4 +17,4 @@ My research aims to develop and apply population-genetic approaches to address t
 - Simulating IGG searches in structured populations to better understand their behavior and limitations
 
 I also have a strong interest in immunology. Before starting grad school, I worked as a computational research associate with Dr. Jeffrey Ishizuka at the Yale Cancer Center. I was specifically involved in projects at the interface of computational biology and immunology to identify predictors of immunotherapy response and model single-cell perturbation effects.
-
+---
