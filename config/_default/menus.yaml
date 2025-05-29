@@ -9,10 +9,10 @@ main:
     weight: 1
   - name: Research
     pageRef: research
-    weight: 10
+    weight: 2
   - name: Publications
     pageRef: publication
-    weight: 10
+    weight: 3
   - name: CV
     url: /uploads/ferielouerghicv_may2025.pdf
-    weight: 10
+    weight: 4
