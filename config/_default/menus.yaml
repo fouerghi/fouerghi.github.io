@@ -11,5 +11,5 @@ main:
     pageRef: publication
     weight: 12
   - name: CV
-    url: /uploads/FerielOuerghiCV_May2025.pdf
+    url: /static/uploads/FerielOuerghiCV_May2025.pdf
     weight: 13
