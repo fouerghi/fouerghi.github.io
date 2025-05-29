@@ -5,9 +5,11 @@
 
 main:
   - name: Research
+    pageRef: research
     weight: 10
   - name: Publications
     pageRef: publication
     weight: 12
   - name: CV
+    url: /uploads/FerielOuerghiCV_May2025.pdf
     weight: 13
