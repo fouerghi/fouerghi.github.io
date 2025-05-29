@@ -36,17 +36,6 @@ interests:
   - Population Genetics
   - Forensic Genetics
   - Immunology
-
-education:
-  - area: PhD in Computational Biology and Bioinformatics
-    institution: University of Southern California
-    date_start: 2022
-    date_end: 
-  - area: B.A. in Computer Science
-    institution: Amherst College
-    date_start: 2016
-    date_end: 2020
-
 ---
 
 ## Welcome!

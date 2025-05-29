@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Publications
     pageRef: publication
-    weight: 12
+    weight: 10
   - name: CV
     url: /uploads/ferielouerghicv_may2025.pdf
-    weight: 13
+    weight: 10

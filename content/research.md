@@ -3,9 +3,25 @@ title: "Research"
 menu:
   main:
     weight: 20
+layout: page
+show_breadcrumb: false
+show_date: false
 ---
-I work at the intersection of population genetics and forensic genetics. In the early days of forensic genetics, a great deal of theoretical work from staitstic and population-genetic perspectives clarified the interpretation of evidence from short tandem repeats (STRs). Today, new genetic technologies have led to the availability of new kinds of data and search processes, but these processes have not ndergone the same kinds of theoretical scrutiny as STR-based identity testing. My goal is to develop population-genetuc approaches to answer questions about extending STR match statistic to these new types of data and search processes.
 
-Before starting graduate school, I worked as a computational research associate with Dr. Jeffrey Ishizyka at the Yale Cancer Center. I was specifically involved in projects at the interface of computational biology and immunology to identify predictors of immunotherapy response and model single-cell perturbation effects.
+{{< grid justify="start" >}}
 
-Feel free to contact me for collaboration!
+{{< grid-item >}}
+
+One of the central goals of forensic genetics is to reconstruct events at a crime scene, particularly through identity testing. For decades, forensic identification has relied on DNA profiling using short tandem repeats (STRs), which has inspired a great deal of theoretical work in statistics and population genetics to clarify the interpretation of such evidence. At the same time, over the past 30 years, advances in genotyping technologies have enabled the analysis of previously intractable samples and introduced a new forensic search process known as investigative genetic genealogy (IGG). However, these processes have not undergone the same level of theoretical scrutiny as STR-based identity testing. 
+
+My research aims to develop and apply population-genetic approaches to address this gap by:
+
+- Extending traditional forensic likelihood ratios to accommodate low-coverage sequencing data  
+- Developing a conservative statistical framework that integrates evidence from both STR and IGG searches  
+- Simulating IGG searches in structured populations to better understand their behavior and limitations
+
+I also have a strong interest in immunology. Before starting grad school, I worked as a computational research associate with Dr. Jeffrey Ishizuka at the Yale Cancer Center. I was specifically involved in projects at the interface of computational biology and immunology to identify predictors of immunotherapy response and model single-cell perturbation effects.
+
+{{< /grid-item >}}
+
+{{< /grid >}}
