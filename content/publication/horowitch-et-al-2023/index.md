@@ -2,19 +2,19 @@
 title: Subsets of IFN Signaling Predict Response to Immune Checkpoint Blockade in
   Patients with Melanoma
 authors:
-- B. Horowitch
-- D. Y. Lee
-- M. Ding
-- S. Martinez-Morilla
-- T. N. Aung
-- F. Ouerghi
-- X. Wang
-- W. Wei
-- W. Damsky
-- M. Sznol
-- H. Kluger
-- D. L. Rimm
-- J. J. Ishizuka
+- Horowitch, B.
+- Lee, D. Y.
+- Ding, M.
+- Martinez-Morilla, S.
+- Aung, T. N.
+- Ouerghi, F.
+- Wang, X.
+- Wei, W.
+- Damsky, W. 
+- Sznol, M.
+- Kluger, H.
+- Rimm, D. L.
+- Ishizuka, J. J.
 date: '2023-08-01'
 publishDate: '2025-05-29T20:18:42.602611Z'
 publication_types:

@@ -1,19 +1,19 @@
 ---
 title: Subsets of interferon signaling and response to immune checkpoint blockade.
 authors:
-- D. Lee
-- B. Horowitch
-- M. Ding
-- S. Martinez-Morilla
-- T. N. Aung
-- F. Ouerghi
-- X. Wang
-- W. Wei
-- W. Damsky
-- M. Sznol
-- H. M. Kluger
-- D. L. Rimm
-- J. J. Ishizuka
+- Lee, D.
+- Horowitch, B.
+- Ding, M.
+- Martinez-Morilla, S.
+- Aung, T. N.
+- Ouerghi, F.
+- Wang, X.
+- Wei, W.
+- Damsky, W.
+- Sznol, M.
+- Kluger, H. M.
+- Rimm, D. L.
+- Ishizuka, J. J.
 date: '2023-06-01'
 publishDate: '2025-05-29T20:18:42.593419Z'
 publication_types:

@@ -2,20 +2,20 @@
 title: 1107 Enhancing immune responses to melanoma with the RIG-I antiviral pathway
   agonist SLR14
 authors:
-- C. Perry
-- A. Frey
-- W. Ton
-- M. Mackie
-- F. Ouerghi
-- J. Wei
-- K. Clulo
-- M. He
-- T. C. Dumit
-- M. Ding
-- W. Guo
-- J. Clune
-- K. Olino
-- J. J. Ishizuka
+- Perry, C.
+- Frey, A.
+- Ton, W.
+- Mackie, M.
+- Ouerghi, F.
+- Wei, J.
+- Clulo, K.
+- He, M.
+- Dumit, T. C.
+- Ding, M.
+- Guo, W.
+- Clune, J.
+- Olino, K.
+- Ishizuka, J. J.
 date: '2023-11-01'
 publishDate: '2025-05-29T20:18:42.611005Z'
 publication_types:
