@@ -32,6 +32,12 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-7841-1713
 
+avatar:
+  image: avatar.jpg
+  shape: circle
+  size: 300
+
+  
 interests:
   - Population Genetics
   - Forensic Genetics
