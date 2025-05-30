@@ -2,20 +2,20 @@
 title: 1107 Enhancing immune responses to melanoma with the RIG-I antiviral pathway
   agonist SLR14
 authors:
-- Curtis Perry
-- Alexander Frey
-- Wenyuan Ton
-- Maxine Mackie
-- Feriel Ouerghi
-- Jessica Wei
-- Kathryn Clulo
-- Mary He
-- Therese Cordero Dumit
-- Min Ding
-- Weiwei Guo
-- James Clune
-- Kelly Olino
-- Jeffrey Ishizuka
+- C. Perry
+- A. Frey
+- W. Ton
+- M. Mackie
+- F. Ouerghi
+- J. Wei
+- K. Clulo
+- M. He
+- T. C. Dumit
+- M. Ding
+- W. Guo
+- J. Clune
+- K. Olino
+- J. J. Ishizuka
 date: '2023-11-01'
 publishDate: '2025-05-29T20:18:42.611005Z'
 publication_types:

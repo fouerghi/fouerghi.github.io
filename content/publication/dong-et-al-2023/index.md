@@ -2,17 +2,17 @@
 title: Causal identification of single-cell experimental perturbation effects with
   CINEMA-OT
 authors:
-- Mingze Dong
-- Bao Wang
-- Jessica Wei
-- Antonio H. de O. Fonseca
-- Curtis J. Perry
-- Alexander Frey
-- Feriel Ouerghi
-- Ellen F. Foxman
-- Jeffrey J. Ishizuka
-- Rahul M. Dhodapkar
-- David van Dijk
+- M. Dong
+- B. Wang
+- J. Wei
+- A. H. de O. Fonseca
+- C. J. Perry
+- A. Frey
+- F. Ouerghi
+- E. F. Foxman
+- J. J. Ishizuka
+- R. M. Dhodapkar
+- D. van Dijk
 date: '2023-11-01'
 publishDate: '2025-05-29T20:18:42.582346Z'
 publication_types:

@@ -1,9 +1,9 @@
 ---
 title: On forensic likelihood ratios from low-coverage sequencing
 authors:
-- Feriel Ouerghi
-- Dan E. Krane
-- Michael D. Edge
+- F. Ouerghi
+- D. E. Krane
+- M. D. Edge
 date: '2025-05-01'
 publishDate: '2025-05-29T20:18:42.621233Z'
 publication_types:
