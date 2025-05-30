@@ -25,3 +25,6 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+page:
+  read_time: false
