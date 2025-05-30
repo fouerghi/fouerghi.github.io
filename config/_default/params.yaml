@@ -28,3 +28,8 @@ features:
 
 page:
   read_time: false
+
+highlight_name: "Ouerghi, F."
+
+publication:
+  cite_style: apa
