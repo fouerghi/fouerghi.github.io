@@ -7,6 +7,7 @@ layout: page
 show_breadcrumb: false
 show_date: false
 reading_time: false
+share: false
 ---
 
 <div style="max-width: 700px; margin: auto; font-size: 1rem; line-height: 1.6;">
